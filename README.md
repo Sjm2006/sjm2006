@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/💼%20Role-Full--Stack%20Web-Developer-4A90E2?style=for-the-badge&labelColor=0d1117)
+![Role](https://img.shields.io/badge/💼%20Role-Full--Stack%20Web--Developer-4A90E2?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/📍%20Location-Kolkata%2C%20India-4A90E2?style=for-the-badge&labelColor=0d1117)
 ![Open To](https://img.shields.io/badge/🌐%20Open%20To-Collaborations%20%26%20Internships-4A90E2?style=for-the-badge&labelColor=0d1117)
 
