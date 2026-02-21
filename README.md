@@ -66,33 +66,17 @@
 
 | 🎓 Education | 💼 Role | 📍 Location | 🌐 Open To |
 |:---:|:---:|:---:|:---:|
-| BCA @ Techno India | Full-Stack Developer | Kolkata, India | Collaborations & Internships |
+| BCA @ Techno India | Full-Stack Dev Developer | Kolkata, India | Collaborations & Internships |
 
 </div>
 
 <br/>
 
-<div align="center">
-
-| Skill | Level |
-|:---|:---|
-| 🌐 HTML / CSS | ████████████████████ 95% |
-| ⚡ JavaScript | ████████████████░░░░ 80% |
-| 🐍 Python | ███████████████░░░░░ 75% |
-| 🔧 Flask / REST APIs | ████████████░░░░░░░░ 60% |
-| 🗄️ MySQL / SQLite | ████████████░░░░░░░░ 60% |
-| 🤖 AI & Prompt Engineering | ██████████░░░░░░░░░░ 50% |
-
-</div>
 
 ---
 
 <!-- WakaTime / Coding Activity -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-</div>
 
 ---
 
