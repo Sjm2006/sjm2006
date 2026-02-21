@@ -59,23 +59,39 @@
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- Skills Progress & Info -->
+## 📊 At a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
+| 🎓 Education | 💼 Role | 📍 Location | 🌐 Open To |
+|:---:|:---:|:---:|:---:|
+| BCA @ Techno India | Full-Stack Developer | Kolkata, India | Collaborations & Internships |
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sjm2006&theme=tokyonight&hide_border=true" width="60%"/>
+
+| Skill | Level |
+|:---|:---|
+| 🌐 HTML / CSS | ████████████████████ 95% |
+| ⚡ JavaScript | ████████████████░░░░ 80% |
+| 🐍 Python | ███████████████░░░░░ 75% |
+| 🔧 Flask / REST APIs | ████████████░░░░░░░░ 60% |
+| 🗄️ MySQL / SQLite | ████████████░░░░░░░░ 60% |
+| 🤖 AI & Prompt Engineering | ██████████░░░░░░░░░░ 50% |
+
 </div>
 
-<!-- Trophies -->
+---
+
+<!-- WakaTime / Coding Activity -->
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 </div>
 
 ---
