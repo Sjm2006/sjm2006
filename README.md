@@ -58,27 +58,19 @@
 </div>
 
 ---
-
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9" width="41%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sjm2006&theme=tokyonight&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=ff6b6b&currStreakLabel=4A90E2" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sjm2006&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
-
-<!-- Snake Contribution Graph -->
+<!-- Trophies -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sjm2006/Sjm2006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
 </div>
-
----
 
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
