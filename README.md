@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/Instagram-sjm____18-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:soumyajitmondal511@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-soumyajeet2006mondal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-soumyajitmondal511-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
