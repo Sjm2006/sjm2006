@@ -58,19 +58,27 @@
 </div>
 
 ---
+
 <!-- GitHub Stats -->
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
+
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sjm2006&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
+
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
 </div>
+
+---
 
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
