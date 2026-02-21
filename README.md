@@ -59,24 +59,44 @@
 
 ---
 
-<!-- Skills Progress & Info -->
+<!-- At a Glance -->
 ## 📊 At a Glance
 
 <div align="center">
 
-| 🎓 Education | 💼 Role | 📍 Location | 🌐 Open To |
-|:---:|:---:|:---:|:---:|
-| BCA @ Techno India | Full-Stack Dev Developer | Kolkata, India | Collaborations & Internships |
+![Role](https://img.shields.io/badge/💼%20Role-Full--Stack%20Developer-4A90E2?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍%20Location-Kolkata%2C%20India-4A90E2?style=for-the-badge&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/🌐%20Open%20To-Collaborations%20%26%20Internships-4A90E2?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/🔭%20Focus-Web%20Dev%20%26%20Applied%20AI-4A90E2?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 <br/>
 
+<!-- Skill Bars -->
+<div align="center">
+
+### 💡 Skills Overview
+
+</div>
+
+```
+🌐  HTML / CSS          ████████████████████  95%
+⚡  JavaScript          ████████████████░░░░  80%
+🐍  Python              ███████████████░░░░░  75%
+🔧  Flask / REST APIs   ████████████░░░░░░░░  60%
+🗄️  MySQL / SQLite      ████████████░░░░░░░░  60%
+🤖  AI & Prompt Eng.    ██████████░░░░░░░░░░  50%
+```
 
 ---
 
 <!-- WakaTime / Coding Activity -->
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div>
 
 ---
 
@@ -103,8 +123,8 @@
 <a href="https://www.instagram.com/sjm____18">
   <img src="https://img.shields.io/badge/Instagram-sjm____18-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:soumyajitmondal511@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-soumyajitmondal511-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:soumyajeet2006mondal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-soumyajeet2006mondal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
