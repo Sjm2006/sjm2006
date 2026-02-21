@@ -12,18 +12,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a **BCA student** at *Techno India, Salt Lake, Kolkata*, passionate about building responsive, user-focused web applications that sit at the intersection of logic, design, and technology.
-
-- 🔭 Currently working on full-stack web projects and exploring applied AI
-- 🌱 Learning modern web technologies, DSA, and system design
-- 💡 Driven by curiosity, clean code, and building solutions that solve real problems
-- 🏆 Participated in a **national-level hackathon** (Smart Community Health Early Warning System)
-- 📍 Based in **Kolkata, India**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -53,29 +41,6 @@ I'm a **BCA student** at *Techno India, Salt Lake, Kolkata*, passionate about bu
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 [Ace My Study](https://sjm2006.github.io/Ace-MyStudy/)
-> A privacy-focused study planner that generates personalized schedules based on subjects, exam dates, and difficulty levels. Features progress tracking with streaks, focus scores, and Chart.js visualizations — all stored locally in the browser.
-
-`HTML5` `CSS3` `JavaScript` `LocalStorage API` `Chart.js`
-
----
-
-### 🌤️ [Atmos Weather App](https://sjm2006.github.io/Atmos-weather-app/)
-> A responsive weather app delivering live meteorological data — temperature, humidity, wind speed, pressure, and a 5-day forecast for any city worldwide using real-time API integration.
-
-`JavaScript` `HTML5` `CSS3` `Weather API` `Real-Time Data`
-
----
-
-### 🧮 [Math Calculator](https://sjm2006.github.io/Math-calculator/)
-> A fully functional web-based calculator with standard and advanced arithmetic operations, operator chaining, and error handling — designed with a clean, intuitive UI.
-
-`JavaScript` `DOM Manipulation` `CSS3` `Responsive UI`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,18 +52,6 @@ I'm a **BCA student** at *Techno India, Salt Lake, Kolkata*, passionate about bu
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sjm2006&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎯 Core Competencies
-
-- ✅ Responsive Web Design & DOM Manipulation
-- ✅ REST API Integration
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Data Structures & Algorithms (fundamentals)
-- ✅ Database Design (MySQL / SQLite / Google Sheets as DB)
-- ✅ Prompt Engineering & AI Tool Integration
-- ✅ Python Automation
 
 ---
 
