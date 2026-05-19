@@ -182,7 +182,7 @@
         </a>
       </td>
       <td style="text-align:center; width:33.33%;">
-        <a href="mailto:soumyajitmondal511@gmail.com" style="text-decoration:none;">
+        <a href="mailto:soumyajeet2006mondal@gmail.com" style="text-decoration:none;">
           <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=161b22&labelColor=0d1117&color=d14836&logoSize=auto" style="border-radius:8px; width:100%; max-width:190px;" alt="Email" />
         </a>
       </td>
