@@ -1,359 +1,437 @@
+<!-- ============================================================
+     SOUMYAJEET MONDAL — GitHub Profile README
+     Maintainer: @Sjm2006
+     Last updated: 2026
+     Edit each section using the comments as guides.
+     ============================================================ -->
+
+<!-- ── HEADER BANNER ────────────────────────────────────────── -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      BANNER / INTRO                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Soumyajeet%20Mondal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20things%20that%20work.&descSize=17&descAlignY=62&descColor=a29bfe&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://sjm2006.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A29BFE&center=true&vCenter=true&width=600&lines=React+%2F+TypeScript+%2F+Python+Developer;Real-Time+Systems+%26+API-Driven+Apps;Web3+%7C+Smart+Contracts+%7C+Soroban;Building+real+products+from+scratch;BCA+@+Techno+India%2C+Kolkata" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-<a href="https://sjm2006.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-%230f0c29?style=for-the-badge&logo=githubpages&logoColor=a29bfe&labelColor=0f0c29"/>
-</a>
-<a href="https://www.linkedin.com/in/soumyajeet-mondal-84220a202">
-  <img src="https://img.shields.io/badge/LinkedIn-%230f0c29?style=for-the-badge&logo=linkedin&logoColor=a29bfe&labelColor=0f0c29"/>
-</a>
-<a href="mailto:soumyajeet2006mondal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%230f0c29?style=for-the-badge&logo=gmail&logoColor=a29bfe&labelColor=0f0c29"/>
-</a>
-<a href="https://github.com/Sjm2006">
-  <img src="https://img.shields.io/badge/GitHub-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe&labelColor=0f0c29"/>
-</a>
-<a href="https://sjm2006.github.io/portfolio/assets/Soumyajeet_Mondal_CV.pdf">
-  <img src="https://img.shields.io/badge/Resume-%230f0c29?style=for-the-badge&logo=adobeacrobatreader&logoColor=a29bfe&labelColor=0f0c29"/>
-</a>
-
-<br/><br/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Sjm2006&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&labelColor=0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06060f,40:0d0d1a,70:1b1050,100:7c6aed&height=240&section=header&text=Soumyajeet%20Mondal&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Web3&descSize=17&descAlignY=63&descColor=c4b5fd&stroke=7c6aed&strokeWidth=1.5&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       DIVIDER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ── TYPING ANIMATION ──────────────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-## `> whoami`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=A78BFA&center=true&vCenter=true&width=660&lines=Building+real+products+from+scratch+%F0%9F%9A%80;React+%2F+TypeScript+%2F+Python+Developer;WebSocket+%7C+Real-Time+Systems+%7C+API+Design;Web3+%C2%B7+Soroban+Smart+Contracts+%C2%B7+Stellar+Network;BCA+%40+Techno+India%2C+Salt+Lake%2C+Kolkata;Open+to+Internships+%26+Collaborations+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
-```ts
+</div>
+
+<!-- ── STATUS + VISITOR BADGE ────────────────────────────────── -->
+
+<div align="center">
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=for-the-badge&labelColor=0d0d1a&logo=statuspage&logoColor=10b981)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=Sjm2006&style=for-the-badge&color=7c6aed&label=PROFILE+VIEWS&labelColor=0d0d1a)&nbsp;
+![Location](https://img.shields.io/badge/Kolkata%2C%20India-0d0d1a?style=for-the-badge&logo=googlemaps&logoColor=c4b5fd)
+
+</div>
+
+<!-- ── SOCIAL LINKS ───────────────────────────────────────────── -->
+
+<div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c6aed?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d0d1a)](https://sjm2006.github.io/portfolio/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237c6aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/soumyajeet-mondal-84220a202)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%237c6aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:soumyajeet2006mondal@gmail.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-%237c6aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d0d1a)](https://sjm2006.github.io/portfolio/assets/Soumyajeet_Mondal_CV.pdf)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%237c6aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/Sjm2006)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ── ABOUT ME ────────────────────────────────────────────────
+     Edit the code block values to update your personal info.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉whoami
+
+```typescript
 const soumyajeet = {
   role        : "Full-Stack Developer",
-  education   : "BCA @ Techno India, Salt Lake, Kolkata",
+  education   : "BCA — Techno India, Salt Lake, Kolkata  (2024 – Present)",
   location    : "West Bengal, India 🇮🇳",
-  focus       : ["React", "TypeScript", "Python", "Web3 / Soroban"],
+  stack       : ["React", "TypeScript", "Python", "Node.js", "Rust / Soroban"],
+  shipped     : ["WebSocket collab tools", "Soroban dApps", "National Hackathon entry"],
   approach    : "Build → Break → Understand → Rebuild better.",
-  status      : "Open to internships & collaborations 🟢",
+  status      : "🟢  Open to internships & collaborations",
   contact     : "soumyajeet2006mondal@gmail.com",
 };
 ```
 
-I'm a BCA student who builds across the full stack — real-time collaborative tools, API-driven apps, TypeScript dashboards, and on-chain dApps. Two years in, I've shipped a WebSocket-powered multi-user canvas deployed on Railway, a health monitoring dashboard submitted to a national hackathon, a Rust smart contract on the Stellar Testnet, and a handful of clean, focused utilities I'd actually use myself.
-
-My process hasn't changed: pick a hard problem, start building, hit walls, understand why they're there. That's still how I learn fastest.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> tech_stack --list`
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a29bfe)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a29bfe)
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a29bfe)
-![Rust](https://img.shields.io/badge/Rust-0f0c29?style=for-the-badge&logo=rust&logoColor=a29bfe)
-![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a29bfe)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a29bfe)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a29bfe)
-![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=a29bfe)
-![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=a29bfe)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=a29bfe)
-![Vite](https://img.shields.io/badge/Vite-0f0c29?style=for-the-badge&logo=vite&logoColor=a29bfe)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0f0c29?style=for-the-badge&logo=bootstrap&logoColor=a29bfe)
-![Chart.js](https://img.shields.io/badge/Chart.js-0f0c29?style=for-the-badge&logo=chartdotjs&logoColor=a29bfe)
-
-**Backend & Real-Time**
-
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a29bfe)
-![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a29bfe)
-![WebSockets](https://img.shields.io/badge/WebSockets-0f0c29?style=for-the-badge&logo=socketdotio&logoColor=a29bfe)
-![REST API](https://img.shields.io/badge/REST%20API-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a29bfe)
-
-**Database & Storage**
-
-![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a29bfe)
-![SQLite](https://img.shields.io/badge/SQLite-0f0c29?style=for-the-badge&logo=sqlite&logoColor=a29bfe)
-![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=a29bfe)
-
-**Web3 / Blockchain**
-
-![Rust](https://img.shields.io/badge/Soroban%20SDK-0f0c29?style=for-the-badge&logo=rust&logoColor=a29bfe)
-![Stellar](https://img.shields.io/badge/Stellar-0f0c29?style=for-the-badge&logo=stellar&logoColor=a29bfe)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-0f0c29?style=for-the-badge&logo=ethereum&logoColor=a29bfe)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a29bfe)
-![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=a29bfe)
-![Postman](https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=a29bfe)
-![Railway](https://img.shields.io/badge/Railway-0f0c29?style=for-the-badge&logo=railway&logoColor=a29bfe)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0f0c29?style=for-the-badge&logo=githubpages&logoColor=a29bfe)
-![Figma](https://img.shields.io/badge/Figma-0f0c29?style=for-the-badge&logo=figma&logoColor=a29bfe)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/ChatGPT%20API-0f0c29?style=for-the-badge&logo=openai&logoColor=a29bfe)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0f0c29?style=for-the-badge&logo=openai&logoColor=a29bfe)
-![Python Automation](https://img.shields.io/badge/Python%20Automation-0f0c29?style=for-the-badge&logo=python&logoColor=a29bfe)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a29bfe&icon_color=a29bfe&text_color=dfe6e9&ring_color=6c5ce7&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a29bfe&text_color=dfe6e9&langs_count=8" height="180"/>
+> BCA student who builds across the full stack. Shipped a WebSocket-powered multi-user canvas on Railway, a TypeScript health dashboard for a national hackathon, a Rust smart contract on Stellar Testnet, and a handful of clean utilities. My process hasn't changed: pick a hard problem, start building, hit walls, understand why they're there.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sjm2006&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a29bfe&fire=6c5ce7&currStreakLabel=a29bfe&sideLabels=a29bfe&dates=dfe6e9" width="70%"/>
+---
+
+<!-- ── GITHUB TROPHIES ─────────────────────────────────────────
+     Theme options: radical, nord, dracula, monokai, matrix
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sjm2006&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjm2006&theme=tokyo-night&bg_color=0f0c29&color=a29bfe&line=6c5ce7&point=ffffff&hide_border=true&area=true&area_color=6c5ce7" width="100%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> projects --featured`
-
-<!-- Project 1 -->
-<details open>
-<summary><b>⬡ CoinFlip On-Chain — Stellar Soroban dApp</b></summary>
-<br/>
-
-> A provably-fair on-chain coin flip dApp powered by a **Rust smart contract** deployed to the Stellar Testnet via the Soroban platform. No server-side randomness, no trust-me logic — the contract enforces 50/50 odds and doubles stakes on-chain. Integrated Freighter Wallet for XLM transaction signing.
-
-**Stack:** `Rust` `Soroban SDK` `Stellar Testnet` `Freighter Wallet` `dApp` `Web3`
-
-**Highlights:**
-- On-chain randomness enforced by smart contract logic
-- XLM token transfers handled via Soroban SDK
-- Freighter Wallet integration for signing without private key exposure
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)](https://github.com/Sjm2006/coinflip-onchain)
-
-</details>
-
 ---
 
-<!-- Project 2 -->
-<details open>
-<summary><b>⬡ Canvas Collab — Real-Time Collaborative Drawing App</b></summary>
-<br/>
+<!-- ── GITHUB STATS ─────────────────────────────────────────────
+     All cards use a transparent bg to match any GitHub theme.
+     ──────────────────────────────────────────────────────────── -->
 
-> Multi-user collaborative whiteboard built on the **HTML5 Canvas API** with a **WebSocket server** broadcasting every stroke, tool change, and session event in real time. Shared state stays consistent across all clients — deployed live on Railway.
-
-**Stack:** `HTML5 Canvas` `JavaScript` `WebSockets` `Node.js` `Railway`
-
-**Highlights:**
-- Event-driven WebSocket architecture with instant multi-client sync
-- Full drawing toolset: pen, shapes, color picker, eraser
-- Zero framework dependencies on the frontend — raw Canvas API
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%230f0c29?style=for-the-badge&logo=railway&logoColor=a29bfe)](https://canvas-collab-by-sjm-production.up.railway.app/)
-
-</details>
-
----
-
-<!-- Project 3 -->
-<details open>
-<summary><b>⬡ Health Monitor Web App — National Hackathon Entry</b></summary>
-<br/>
-
-> Health assessment dashboard built under **real hackathon pressure** with **React + TypeScript + Vite**. Users input health metrics and receive visual feedback through Recharts data visualisations. Accessible component primitives powered by Radix UI. First production-grade TypeScript project.
-
-**Stack:** `TypeScript` `React` `Vite` `Recharts` `Radix UI`
-
-**Highlights:**
-- National hackathon submission (Smart Community Health Early Warning System)
-- First project using TypeScript and Vite under deadline constraints
-- Accessible UI with Radix UI component primitives
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)](https://sjm2006.github.io/health-monitor-web-app/)
-
-</details>
-
----
-
-<!-- Project 4 -->
-<details>
-<summary><b>⬡ Ace My Study — Client-Side Study Planner</b></summary>
-<br/>
-
-> A fully client-side study scheduler that generates personalised timetables from subject list, exam dates, and difficulty ratings. All data lives in **localStorage** — no backend, no account, no friction. Study trends visualised with Chart.js.
-
-**Stack:** `HTML5` `CSS3` `JavaScript` `localStorage API` `Chart.js`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)](https://sjm2006.github.io/Ace-MyStudy/)
-
-</details>
-
----
-
-<!-- Project 5 -->
-<details>
-<summary><b>⬡ Atmos — Live Weather App</b></summary>
-<br/>
-
-> Fetches live weather data from the WeatherAPI and renders current conditions plus a 5-day forecast. Handles async API calls, error states, and empty-location fallbacks cleanly. Fully responsive layout.
-
-**Stack:** `JavaScript` `HTML5` `CSS3` `WeatherAPI`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)](https://sjm2006.github.io/Atmos-weather-app/)
-
-</details>
-
----
-
-<!-- Project 6 -->
-<details>
-<summary><b>⬡ Python Quiz App — OOP Desktop App</b></summary>
-<br/>
-
-> Desktop trivia app pulling live questions from the Open Trivia DB API. Modular OOP architecture covers API fetching, response parsing, score tracking, and GUI event logic — all in Python and Tkinter.
-
-**Stack:** `Python` `Tkinter` `REST API` `OOP` `GUI`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%230f0c29?style=for-the-badge&logo=github&logoColor=a29bfe)](https://github.com/Sjm2006/python-quiz-app)
-
-</details>
-
-<br/>
+## 〉github --stats
 
 <div align="center">
-  <a href="https://sjm2006.github.io/portfolio/#projects">
-    <img src="https://img.shields.io/badge/View%20All%20Projects%20→-%236c5ce7?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sjm2006&show_icons=true&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c6aed&text_color=e2e8f0&ring_color=7c6aed&include_all_commits=true&count_private=true" alt="Soumyajeet's GitHub Stats"/>&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjm2006&layout=compact&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-## `> focus --current`
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sjm2006&theme=transparent&hide_border=true&background=0d0d1a&ring=7c6aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b&stroke=1e1e35" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjm2006&theme=react-dark&bg_color=06060f&color=a78bfa&line=7c6aed&point=c4b5fd&hide_border=true&area=true&area_color=7c6aed" width="100%" alt="Contribution Graph"/>
+
+<br/>
+
+---
+
+<!-- ── TECH STACK ───────────────────────────────────────────────
+     Add/remove badges using https://shields.io
+     Icon slugs: https://simpleicons.org
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉tech_stack --all
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-0d0d1a?style=for-the-badge&logo=rust&logoColor=CE422B)
+![C](https://img.shields.io/badge/C-0d0d1a?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-0d0d1a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d1a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d0d1a?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d1a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Chart.js](https://img.shields.io/badge/Chart.js-0d0d1a?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+![Recharts](https://img.shields.io/badge/Recharts-0d0d1a?style=for-the-badge&logo=react&logoColor=a78bfa)
+![Radix UI](https://img.shields.io/badge/Radix_UI-0d0d1a?style=for-the-badge&logo=radixui&logoColor=ffffff)
+
+### Backend & Real-Time
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d0d1a?style=for-the-badge&logo=express&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-0d0d1a?style=for-the-badge&logo=flask&logoColor=ffffff)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d0d1a?style=for-the-badge&logo=socketdotio&logoColor=010101)
+![REST API](https://img.shields.io/badge/REST_API-0d0d1a?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+### Database & Storage
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d1a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![LocalStorage API](https://img.shields.io/badge/LocalStorage_API-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Web3 / Blockchain
+
+![Rust](https://img.shields.io/badge/Soroban_SDK-0d0d1a?style=for-the-badge&logo=rust&logoColor=CE422B)
+![Stellar](https://img.shields.io/badge/Stellar_Network-0d0d1a?style=for-the-badge&logo=stellar&logoColor=7D00FF)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-0d0d1a?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![Freighter Wallet](https://img.shields.io/badge/Freighter_Wallet-0d0d1a?style=for-the-badge&logo=stellar&logoColor=7D00FF)
+
+### AI & Automation
+
+![OpenAI API](https://img.shields.io/badge/ChatGPT_API-0d0d1a?style=for-the-badge&logo=openai&logoColor=412991)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d0d1a?style=for-the-badge&logo=openai&logoColor=412991)
+![Python Automation](https://img.shields.io/badge/Python_Automation-0d0d1a?style=for-the-badge&logo=python&logoColor=3776AB)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d1a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-0d0d1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Railway](https://img.shields.io/badge/Railway-0d0d1a?style=for-the-badge&logo=railway&logoColor=0B0D0E)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d0d1a?style=for-the-badge&logo=githubpages&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![NPM](https://img.shields.io/badge/NPM-0d0d1a?style=for-the-badge&logo=npm&logoColor=CB3837)
+
+<br/>
+
+---
+
+<!-- ── FEATURED PROJECTS ────────────────────────────────────────
+     Add/remove rows in the table to update projects.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉projects --featured
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⬡ &nbsp;CoinFlip On-Chain
+`Web3 · Rust · Stellar Testnet · Featured`
+
+Provably-fair dApp built with a **Rust smart contract** on Stellar Testnet via Soroban. Players bet XLM — 50/50 odds enforced entirely by the contract, not a server. Integrated Freighter Wallet for in-browser transaction signing.
+
+![Rust](https://img.shields.io/badge/Rust-0d0d1a?style=flat-square&logo=rust&logoColor=CE422B)
+![Soroban](https://img.shields.io/badge/Soroban-0d0d1a?style=flat-square&logo=stellar&logoColor=7D00FF)
+![Web3](https://img.shields.io/badge/Web3-0d0d1a?style=flat-square&logo=ethereum&logoColor=627EEA)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Sjm2006/coinflip-onchain)
+
+</td>
+<td width="50%" valign="top">
+
+#### ◉ &nbsp;Canvas Collab
+`Real-Time · WebSockets · Live on Railway`
+
+Multi-user collaborative drawing app on **HTML5 Canvas** with a WebSocket server syncing every stroke, tool change, and session event across all connected clients. Zero framework — raw Canvas API. Deployed live on Railway.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d0d1a?style=flat-square&logo=socketdotio&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0d0d1a?style=flat-square&logo=railway&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d1a?style=for-the-badge&logo=railway&logoColor=a78bfa)](https://canvas-collab-by-sjm-production.up.railway.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ★ &nbsp;Health Monitor Web App
+`Hackathon · TypeScript · React · Vite`
+
+National hackathon submission — **Smart Community Health Early Warning System**. Health metrics input → Recharts visualisations via Radix UI accessible components. First production TypeScript + Vite project, shipped under real deadline pressure.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0d0d1a?style=flat-square&logo=vite&logoColor=646CFF)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://sjm2006.github.io/health-monitor-web-app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### ◎ &nbsp;Ace My Study
+`Utility · Client-Side · Chart.js`
+
+Client-side study planner generating personalised schedules from subjects, exam dates, and self-rated difficulty. All data persists in **localStorage** — no backend, no account required. Progress & session trends visualised via Chart.js.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Chart.js](https://img.shields.io/badge/Chart.js-0d0d1a?style=flat-square&logo=chartdotjs&logoColor=FF6384)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=flat-square&logo=html5&logoColor=E34F26)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://sjm2006.github.io/Ace-MyStudy/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ◎ &nbsp;Atmos — Weather App
+`API Integration · JavaScript · Responsive`
+
+Fetches live data from WeatherAPI and renders current conditions + a 5-day forecast for any location. Handles async API calls, error states, and empty-location fallbacks. Clean, fully responsive layout.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=1572B6)
+![API](https://img.shields.io/badge/WeatherAPI-0d0d1a?style=flat-square&logo=json&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://sjm2006.github.io/Atmos-weather-app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⬡ &nbsp;Python Quiz App
+`Desktop · OOP · Tkinter · API`
+
+Desktop trivia app pulling live questions from the **Open Trivia Database API**. Modular OOP architecture covers API fetching, response parsing, score tracking, and GUI event logic in Python + Tkinter. A deliberate deep-dive into event-driven desktop apps.
+
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=3776AB)
+![Tkinter](https://img.shields.io/badge/Tkinter-0d0d1a?style=flat-square&logo=python&logoColor=3776AB)
+![OOP](https://img.shields.io/badge/OOP-0d0d1a?style=flat-square&logo=abstract&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Sjm2006/python-quiz-app)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All Projects →](https://img.shields.io/badge/View%20All%20Projects%20%E2%86%92-7c6aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://sjm2006.github.io/portfolio/#projects)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ── EDUCATION ────────────────────────────────────────────────
+     Update institution/dates as needed.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉education --log
+
+```
+🎓  Bachelor of Computer Applications (BCA)
+    Techno India, Salt Lake, Kolkata           2024 – Present
+    Coursework: DSA · OOP · DBMS · OS · Computer Networks · Software Engineering
+    Parallel: independent full-stack projects running outside the classroom.
+
+📘  Higher Secondary (Computer Science — WBCHSE)
+    Rampurhat High School (H.S.), Birbhum      2022 – 2024
+
+📗  Secondary (WBBSE)
+    Tarapith Taratirthya Vidyamandir, Birbhum  2022
+```
+
+<br/>
+
+---
+
+<!-- ── CURRENT FOCUS ────────────────────────────────────────────
+     Update this section as your goals change.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉focus --current
 
 ```yaml
+# soumyajeet.config.yaml — last updated 2026
+
 learning:
   - Advanced TypeScript patterns & generics
   - Rust systems programming beyond Soroban
-  - Database internals & query optimization
+  - Database internals & query optimisation
 
 building:
-  - Something new — follow on GitHub to catch the drop
+  - Next project (follow @Sjm2006 on GitHub to see it when it ships)
 
 exploring:
-  - Web3 infrastructure and on-chain tooling
+  - Web3 infrastructure & on-chain tooling
   - AI-assisted development workflows
   - Performance-first frontend architecture
 
 open_to:
-  - Internships (frontend, full-stack, or backend)
-  - Interesting open source collaborations
+  - Internships  →  frontend · full-stack · backend
+  - Open source with real-world impact
   - Projects with real users and real constraints
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HIGHLIGHTS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
-## `> achievements --log`
+<!-- ── HIGHLIGHTS / ACHIEVEMENTS ──────────────────────────────
+     Add rows for new milestones.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉highlights --all
 
 | | Milestone |
-|---|---|
-| 🏆 | **National Hackathon** — Shipped a React + TypeScript health monitoring system under competition deadline |
-| ⚡ | **Real-Time Systems** — Canvas Collab: WebSocket-powered multi-user drawing tool, live on Railway |
-| ⛓️ | **Web3 / Blockchain** — Wrote and deployed a Rust smart contract on Stellar Testnet via Soroban |
+|:-:|:--|
+| 🏆 | **National Hackathon** — React + TypeScript health monitoring system shipped under competition deadline |
+| ⚡ | **Real-Time Systems** — Canvas Collab: WebSocket-powered multi-user canvas, live on Railway |
+| ⛓️ | **Web3 / Blockchain** — Rust smart contract deployed to Stellar Testnet via Soroban SDK |
 | 🌐 | **Full-Stack Shipping** — 6+ independent projects spanning frontend, backend, desktop, and on-chain |
-| 🎨 | **UI/UX Focused** — Every project ships with responsive, production-grade interfaces |
-| 🤖 | **AI Integration** — Applied ChatGPT API and prompt engineering in development workflows |
-| 📚 | **Self-Directed Learner** — BCA coursework + parallel independent projects running simultaneously |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> connect --open`
-
-<div align="center">
-
-<a href="https://sjm2006.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-sjm2006.github.io/portfolio-%236c5ce7?style=for-the-badge&labelColor=0f0c29"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/soumyajeet-mondal-84220a202">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-%236c5ce7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="mailto:soumyajeet2006mondal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-%236c5ce7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="https://github.com/Sjm2006">
-  <img src="https://img.shields.io/badge/GitHub-Follow-%236c5ce7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+| 🎨 | **UI/UX Focus** — Every project ships with a responsive, production-grade interface |
+| 🤖 | **AI Integration** — ChatGPT API & prompt engineering applied in active dev workflows |
+| 📚 | **Self-Directed Learner** — BCA coursework + parallel real-world projects running simultaneously |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20build%20something%20real.&fontSize=22&fontColor=a29bfe&fontAlignY=65&animation=fadeIn" width="100%"/>
+---
+
+<!-- ── FUN FACTS / QUOTE ────────────────────────────────────────
+     Swap the quote for any meaningful dev quote you prefer.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉quote --today
 
 <div align="center">
-  <sub>Soumyajeet Mondal · Kolkata, India · <a href="https://sjm2006.github.io/portfolio/">sjm2006.github.io/portfolio</a></sub>
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</div>
+
+```
+⚡  I learn by building things, breaking them, and rebuilding them better.
+🎯  I build tools I'd actually use — clean interfaces, predictable logic.
+🔭  Currently studying how things actually work under the hood, not just how to use them.
+🌱  Open source is next on the list.
+```
+
+<br/>
+
+---
+
+<!-- ── CONNECT ──────────────────────────────────────────────────
+     Update links and handles as needed.
+     ──────────────────────────────────────────────────────────── -->
+
+## 〉connect --open
+
+<div align="center">
+
+| Platform | Handle | Link |
+|:-:|:-:|:-:|
+| 🌐 Portfolio | sjm2006.github.io/portfolio | [![Portfolio](https://img.shields.io/badge/Visit-7c6aed?style=flat-square&logo=githubpages&logoColor=white)](https://sjm2006.github.io/portfolio/) |
+| 💼 LinkedIn | Soumyajeet Mondal | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajeet-mondal-84220a202) |
+| 🐙 GitHub | @Sjm2006 | [![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sjm2006) |
+| 📧 Email | soumyajeet2006mondal@gmail.com | [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyajeet2006mondal@gmail.com) |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ── FOOTER ───────────────────────────────────────────────────
+     Keep it minimal. Just a closing line and wave.
+     ──────────────────────────────────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6aed,50:1b1050,100:06060f&height=140&section=footer&text=Let%27s%20build%20something%20real.&fontSize=22&fontColor=c4b5fd&fontAlignY=68&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<sub><code>Soumyajeet Mondal &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; soumyajeet2006mondal@gmail.com</code></sub>
+
 </div>
