@@ -1,235 +1,222 @@
 <!--
   ========================================
-  🚀 PREMIUM GitHub Profile README
+  🎨 PREMIUM GitHub Profile README
   Author: Soumyajeet Mondal
   Portfolio: https://sjm2006.github.io/portfolio/
   
-  🎨 Design System:
-  • Dark mode optimized (#0D1117 / #161B22 / #30363D)
-  • Card-based layout with precise spacing
-  • Recruiter-focused visual hierarchy
-  • Portfolio-accurate tech stack mapping
-  • Reliable SVG widgets (no JS/CSS injection)
+  Design System:
+  • Zero emojis • Strict dark mode palette
+  • Table-based grid layout for GitHub compatibility
+  • Card containers with border + background layering
+  • Portfolio-exact tech mapping
+  • Recruiter-optimized visual hierarchy
   
-  ⚙️ Quick Edit:
-  • Replace "sjm2006" in all stat URLs
-  • Update social links if portfolio changes
-  • Toggle tech icons via skillicons.dev params
-  • Modify typing lines via query string
+  Customization:
+  • Replace "sjm2006" in all stat/URL references
+  • Update social hrefs if portfolio links change
+  • Modify typing lines via query parameters
   ========================================
 -->
 
-<!-- 🌊 Animated Header -->
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117:161B22:0D1117&height=130&section=header&reversal=false&animation=twinkling&desc=Engineering%20High-Performance%20Web%20%26%20Web3%20Applications&descAlignY=62&descAlign=50&fontColor=58A6FF&fontBold=true" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117:161b22:0d1117&height=110&section=header&text=Soumyajeet%20Mondal&fontColor=58a6ff&fontSize=28&animation=twinkling&desc=Full-Stack%20%26%20Web3%20Developer" width="100%" alt="header banner" />
   
-  <!-- ✨ Animated Typing Intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&height=48&lines=👋+Hi,+I'm+Soumyajeet;⚡+Full-Stack+%26+Web3+Developer;🎯+React+%7C+Python+%7C+Stellar;🚀+Pixel-Perfect+UI+•+Clean+Architecture" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3200&pause=900&color=58a6ff&center=true&vCenter=true&width=540&lines=Architecting+scalable+web+applications;Integrating+real-time+systems+%26+Stellar+blockchain;Focused+on+performance+clean+architecture" alt="typing animation" />
 </div>
 
-<!-- 🔹 Divider -->
+<!-- SEPARATOR -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%" style="border-radius:4px;" />
 </p>
 
-<!-- 👨‍💻 Who I Am (Card UI) -->
-<div align="center" style="background-color: #161B22; border: 1px solid #30363D; border-radius: 14px; padding: 28px; margin: 16px auto; max-width: 820px;">
-  <h2 style="margin: 0 0 14px; color: #F0F6FC; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">👨‍💻 Who I Am</h2>
-  <p style="margin: 0 0 20px; color: #8B949E; font-size: 15px; line-height: 1.6;">
-    <strong style="color: #58A6FF;">BCA Student</strong> @ Techno India, Kolkata<br>
-    Engineering <span style="color: #238636; font-weight: 500;">performant, production-ready web experiences</span> with modern tooling, clean architecture, and real-time capabilities.
+<!-- ABOUT SECTION -->
+<div align="center" style="background-color:#161b22; border:1px solid #30363d; border-radius:14px; padding:26px; margin:12px auto; max-width:820px;">
+  <h2 style="margin:0 0 10px; color:#f0f6fc; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif; font-size:19px; border-bottom:1px solid #21262d; padding-bottom:8px;">About</h2>
+  
+  <p style="margin:0 0 18px; color:#8b949e; font-size:14.5px; line-height:1.65; text-align:left; max-width:680px; margin-left:auto; margin-right:auto;">
+    BCA candidate at Techno India, Kolkata. I engineer production-ready web platforms and decentralized applications with emphasis on performance, type safety, and clean system architecture. Currently focused on real-time synchronization, Stellar smart contracts, and modern frontend ecosystems.
   </p>
 
-  <!-- Quick Info Chips -->
-  <table style="margin: 0 auto 20px; border-collapse: separate; border-spacing: 10px;">
+  <!-- Info Chips -->
+  <table align="center" style="border-collapse:separate; border-spacing:10px; margin-bottom:18px;">
     <tr>
-      <td style="background-color: #0D1117; padding: 8px 16px; border-radius: 20px; border: 1px solid #30363D; text-align: center;">
-        <img src="https://img.shields.io/badge/🎓_BCA-Student-58A6FF?style=flat&labelColor=0D1117" />
+      <td style="background-color:#0d1117; padding:8px 14px; border-radius:6px; border:1px solid #21262d; text-align:center;">
+        <img src="https://img.shields.io/badge/Education-BCA_Student-58a6ff?style=flat&labelColor=0d1117" />
       </td>
-      <td style="background-color: #0D1117; padding: 8px 16px; border-radius: 20px; border: 1px solid #30363D; text-align: center;">
-        <img src="https://img.shields.io/badge/📍_Kolkata-India-58A6FF?style=flat&labelColor=0D1117" />
+      <td style="background-color:#0d1117; padding:8px 14px; border-radius:6px; border:1px solid #21262d; text-align:center;">
+        <img src="https://img.shields.io/badge/Location-Kolkata,_IN-58a6ff?style=flat&labelColor=0d1117" />
       </td>
-      <td style="background-color: #0D1117; padding: 8px 16px; border-radius: 20px; border: 1px solid #30363D; text-align: center;">
-        <img src="https://img.shields.io/badge/⏱️_2+_Years_Coding-58A6FF?style=flat&labelColor=0D1117" />
+      <td style="background-color:#0d1117; padding:8px 14px; border-radius:6px; border:1px solid #21262d; text-align:center;">
+        <img src="https://img.shields.io/badge/Experience-2+_Years-58a6ff?style=flat&labelColor=0d1117" />
       </td>
     </tr>
   </table>
 
   <!-- CTA Buttons -->
   <a href="https://sjm2006.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117&color=58A6FF" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(88,166,255,0.25);" />
+    <img src="https://img.shields.io/badge/View_Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=58a6ff" style="border-radius:6px; box-shadow:0 2px 6px rgba(88,166,255,0.2);" />
   </a>
-  <a href="mailto:soumyajeet2006mondal@gmail.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/📩_Contact_Me-161B22?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117&color=58A6FF" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(209,72,54,0.25);" />
+  <a href="mailto:soumyajeet2006mondal@gmail.com" target="_blank" style="margin-left:12px;">
+    <img src="https://img.shields.io/badge/Contact_Me-161b22?style=for-the-badge&logo=gmail&logoColor=d14836&labelColor=0d1117&color=58a6ff" style="border-radius:6px; box-shadow:0 2px 6px rgba(209,72,54,0.2);" />
   </a>
-
-  <p style="margin: 16px 0 0; font-size: 13px; color: #6E7681; font-style: italic;">Focused on clean code • real-time systems • developer experience</p>
 </div>
 
-<!-- 🔹 Divider -->
+<!-- SEPARATOR -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%" style="border-radius:4px;" />
 </p>
 
-<!-- 🛠️ Tech Stack (Grid Card UI) -->
-<div align="center" style="background-color: #161B22; border: 1px solid #30363D; border-radius: 14px; padding: 28px; margin: 16px auto; max-width: 860px;">
-  <h2 style="margin: 0 0 10px; color: #F0F6FC; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">🛠️ Tech Arsenal</h2>
-  <sub style="color: #6E7681; font-size: 13px;">Portfolio-extracted • Production-ready • Modern stack</sub>
+<!-- TECHNICAL STACK SECTION -->
+<div align="center" style="background-color:#161b22; border:1px solid #30363d; border-radius:14px; padding:26px; margin:12px auto; max-width:840px;">
+  <h2 style="margin:0 0 14px; color:#f0f6fc; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif; font-size:19px;">Technical Stack</h2>
+  <sub style="color:#6e7681; font-size:12.5px;">Portfolio-extracted • Production-tested • Modern tooling</sub>
 
   <!-- Tech Grid -->
-  <table style="width: 100%; margin-top: 20px; border-collapse: separate; border-spacing: 12px;">
+  <table style="width:100%; border-collapse:separate; border-spacing:12px; margin-top:18px;">
     <tr>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">💻 Languages</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Core Languages</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,rust,cpp,c,sql&theme=dark&perline=7" /></a>
       </td>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">🎨 Frontend</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Frontend Ecosystem</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,chartjs&theme=dark&perline=7" /></a>
-        <br><sub style="color: #6E7681;">Recharts • Radix UI • Glassmorphism • Responsive UI</sub>
+        <br><sub style="color:#6e7681;">Recharts • Radix UI • Responsive UI • Glassmorphism • CSS Animations</sub>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">⚙️ Backend & APIs</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Backend & Real-Time</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,express,websocket&theme=dark&perline=4" /></a>
-        <br><sub style="color: #6E7681;">REST Design • CRUD • Auth Flows • JSON Handling</sub>
+        <br><sub style="color:#6e7681;">REST API Design • CRUD Operations • Auth Flows • JSON Handling • Multi-User Sync</sub>
       </td>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">🌐 Web3 / Stellar</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Web3 & Stellar Network</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,solidity,ethereum&theme=dark&perline=3" /></a>
-        <br><sub style="color: #6E7681;">Soroban SDK • Smart Contracts • Freighter • dApps</sub>
+        <br><sub style="color:#6e7681;">Soroban SDK • Smart Contracts • Freighter Wallet • dApp Architecture • XLM Transfers</sub>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">🗄️ Data & Storage</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Data & Storage</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark&perline=3" /></a>
-        <br><sub style="color: #6E7681;">localStorage • Google Sheets DB • SQL Queries • DBMS</sub>
+        <br><sub style="color:#6e7681;">localStorage API • Google Sheets DB • SQL Queries • DBMS Architecture</sub>
       </td>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">🔧 DevOps & Tools</strong><br>
+      <td style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">Dev Toolchain & Deploy</strong><br><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux&theme=dark&perline=6" /></a>
-        <br><sub style="color: #6E7681;">Vite • CLI • DevTools • Gh Pages • Railway • NPM</sub>
+        <br><sub style="color:#6e7681;">Vite • CLI • DevTools • GitHub Pages • Railway • Event-Driven Logic</sub>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">⚡ Real-Time Systems</strong><br>
-        <img src="https://img.shields.io/badge/WebSockets-58A6FF?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Canvas_API-58A6FF?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Event_Driven-58A6FF?style=flat-square&labelColor=0D1117" />
-        <br><sub style="color: #6E7681;">Multi-User Sync • State Broadcasting • Live Updates</sub>
-      </td>
-      <td style="background-color: #0D1117; padding: 14px; border-radius: 10px; border: 1px solid #30363D; vertical-align: top;">
-        <strong style="color: #58A6FF; font-size: 14px;">🤖 AI & Design</strong><br>
-        <img src="https://img.shields.io/badge/ChatGPT_API-58A6FF?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Prompt_Eng-58A6FF?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Figma-58A6FF?style=flat-square&labelColor=0D1117" />
-        <br><sub style="color: #6E7681;">CSS Animations • Accessibility • Design Systems</sub>
+      <td colspan="2" style="background-color:#0d1117; padding:16px; border-radius:10px; border:1px solid #21262d; vertical-align:top;">
+        <strong style="color:#58a6ff; font-size:14px;">AI Integration & Design Systems</strong><br><br>
+        <img src="https://img.shields.io/badge/ChatGPT_API-58a6ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Prompt_Engineering-58a6ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Figma-58a6ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Design_Systems-58a6ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Accessibility-58a6ff?style=flat-square&labelColor=0d1117" />
+        <br><sub style="color:#6e7681; margin-top:4px; display:inline-block;">Python Automation • AI-Assisted Development • State Broadcasting • Canvas API</sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- 🔹 Divider -->
+<!-- SEPARATOR -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%" style="border-radius:4px;" />
 </p>
 
-<!-- 📊 GitHub Analytics (Card UI) -->
-<div align="center" style="background-color: #161B22; border: 1px solid #30363D; border-radius: 14px; padding: 28px; margin: 16px auto; max-width: 860px;">
-  <h2 style="margin: 0 0 14px; color: #F0F6FC; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">📊 GitHub Analytics</h2>
+<!-- DEVELOPMENT METRICS SECTION -->
+<div align="center" style="background-color:#161b22; border:1px solid #30363d; border-radius:14px; padding:26px; margin:12px auto; max-width:840px;">
+  <h2 style="margin:0 0 14px; color:#f0f6fc; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif; font-size:19px;">Development Metrics</h2>
   
   <!-- Stats + Streak -->
-  <table style="width: 100%; border-collapse: separate; border-spacing: 12px;">
+  <table style="width:100%; border-collapse:separate; border-spacing:14px;">
     <tr>
-      <td style="background-color: #0D1117; padding: 10px; border-radius: 10px; border: 1px solid #30363D; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjm2006&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&hide=stars,commits&ring_color=58A6FF&border_radius=10" width="340" />
+      <td style="background-color:#0d1117; padding:12px; border-radius:10px; border:1px solid #21262d; text-align:center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sjm2006&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide=stars,commits&ring_color=58a6ff&border_radius=8" width="350" />
       </td>
-      <td style="background-color: #0D1117; padding: 10px; border-radius: 10px; border: 1px solid #30363D; text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjm2006&theme=github-dark&hide_border=true&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&sideNums=58A6FF&currStreakNum=58A6FF&border_radius=10" width="340" />
+      <td style="background-color:#0d1117; padding:12px; border-radius:10px; border:1px solid #21262d; text-align:center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjm2006&theme=github-dark&hide_border=true&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=58a6ff&currStreakNum=58a6ff&border_radius=8" width="350" />
       </td>
     </tr>
   </table>
 
   <!-- Top Languages -->
-  <div style="background-color: #0D1117; padding: 14px; border-radius: 12px; border: 1px solid #30363D; margin: 16px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjm2006&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117&langs_count=8&card_width=460&border_radius=12" />
+  <div style="background-color:#0d1117; padding:14px; border-radius:10px; border:1px solid #21262d; margin:16px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjm2006&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=480&border_radius=8" />
   </div>
 
   <!-- Activity Graph -->
-  <div style="background-color: #0D1117; padding: 12px; border-radius: 12px; border: 1px solid #30363D; margin: 12px 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjm2006&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=8B949E&area=true&hide_border=true&radius=12" width="100%" style="max-width: 740px; border-radius: 10px;" />
+  <div style="background-color:#0d1117; padding:12px; border-radius:10px; border:1px solid #21262d; margin:14px 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjm2006&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true&radius=10" width="100%" style="max-width:760px; border-radius:8px;" />
   </div>
 
-  <!-- Metrics -->
-  <div style="margin-top: 16px;">
-    <img src="https://komarev.com/ghpvc/?username=sjm2006&label=👁️_Profile_Visits&color=58A6FF&style=flat-square&logo=github&logoColor=white&labelColor=0D1117" style="border-radius: 8px;" />
-    <img src="https://img.shields.io/github/followers/sjm2006?label=🤝_Followers&style=flat-square&logo=github&color=58A6FF&labelColor=0D1117" style="border-radius: 8px; margin-left: 8px;" />
+  <!-- Profile Metrics -->
+  <div style="margin-top:14px;">
+    <img src="https://komarev.com/ghpvc/?username=sjm2006&label=Profile_Visits&color=58a6ff&style=flat-square&logo=github&logoColor=white&labelColor=0d1117" style="border-radius:6px;" />
+    <img src="https://img.shields.io/github/followers/sjm2006?label=Followers&style=flat-square&logo=github&color=58a6ff&labelColor=0d1117" style="border-radius:6px; margin-left:8px;" />
   </div>
 </div>
 
-<!-- 🔹 Divider -->
+<!-- SEPARATOR -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%" style="border-radius:4px;" />
 </p>
 
-<!-- 🔗 Social Links (Premium Button Grid) -->
-<div align="center" style="background-color: #161B22; border: 1px solid #30363D; border-radius: 14px; padding: 32px; margin: 16px auto; max-width: 820px;">
-  <h2 style="margin: 0 0 8px; color: #F0F6FC; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">🔗 Connect & Collaborate</h2>
-  <sub style="color: #6E7681; font-size: 13px;">Extracted from portfolio • Ready to connect</sub>
+<!-- CONNECT SECTION -->
+<div align="center" style="background-color:#161b22; border:1px solid #30363d; border-radius:14px; padding:28px; margin:12px auto; max-width:820px;">
+  <h2 style="margin:0 0 10px; color:#f0f6fc; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif; font-size:19px;">Connect</h2>
+  <sub style="color:#6e7681; font-size:12.5px;">Professional inquiries and collaboration requests welcome</sub>
 
   <!-- Social Grid -->
-  <table style="width: 100%; margin: 24px 0 16px; border-collapse: separate; border-spacing: 10px;">
+  <table style="width:100%; border-collapse:separate; border-spacing:12px; margin-top:20px;">
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="https://github.com/sjm2006" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-sjm2006-fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/GitHub-sjm2006-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=58a6ff&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="https://linkedin.com/in/soumyajeet-mondal" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Soumyajeet_Mondal-fff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/LinkedIn-Soumyajeet_Mondal-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117&color=0a66c2&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="mailto:soumyajeet2006mondal@gmail.com">
-          <img src="https://img.shields.io/badge/Email-soumyajeet2006mondal@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/Email-soumyajeet2006mondal@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117&color=d14836&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="https://instagram.com/sjm2006" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-@sjm2006-fff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=E4405F&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/Instagram-@sjm2006-ffffff?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0d1117&color=e4405f&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="https://facebook.com/sjm2006" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-Soumyajeet_Mondal-fff?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=1877F2&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/Facebook-Soumyajeet_Mondal-ffffff?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=0d1117&color=1877f2&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
-      <td style="text-align: center;">
+      <td style="text-align:center;">
         <a href="https://sjm2006.github.io/portfolio/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-238636?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&logoSize=auto" style="border-radius: 10px; width: 100%; max-width: 380px;" />
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Website-238636?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117&logoSize=auto" style="border-radius:8px; width:100%; max-width:380px;" />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Open to Work Badge -->
-  <img src="https://img.shields.io/badge/💡_Open_to-Internships_%7C_Collabs_%7C_Freelance-58A6FF?style=flat-square&labelColor=0D1117&logo=handshake&logoColor=white" style="border-radius: 8px; margin-top: 8px;" />
+  <div style="margin-top:20px;">
+    <img src="https://img.shields.io/badge/Open_to-Internships_Collaborations_Freelance-58a6ff?style=flat-square&labelColor=0d1117&logo=handshake&logoColor=ffffff" style="border-radius:6px;" />
+  </div>
 </div>
 
-<!-- 🔹 Divider -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117:161b22:0d1117&height=40&section=footer&reversal=false&animation=fadeIn&fontColor=6e7681&fontSize=14&desc=Engineered_with_precision%20%7C%20Last_updated" width="100%" alt="footer" />
 </p>
-
-<!-- 🎯 Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117:161B22:0D1117&height=45&section=footer&reversal=false&animation=fadeIn&fontColor=8B949E&desc=Thanks_for_stopping_by_%E2%9C%A8&descAlignY=55&descAlign=50" width="100%" alt="footer" />
-</div>
